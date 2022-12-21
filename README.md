@@ -46,11 +46,8 @@ O layout da aplicação está disponível no Figma:
 
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 1rem;">
-  <img alt="Ignite Lab" title="#IgniteLab" src="./src/assets/web_view.png" width="400px">
+![Captura de tela 2022-12-21 174405](https://user-images.githubusercontent.com/85684965/209003850-46619c3e-69b7-4832-9707-a55e8bc78487.png)
 
-  <img alt="Ignite Lab" title="#IgniteLab" src="./src/assets/Comment_view.png" width="400px">
-</p>
 
 <a href="https://code-lab-feed.vercel.app/" align="center">Acesse o site do projeto</a>
 
